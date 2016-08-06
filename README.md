@@ -16,13 +16,13 @@ touch .gitignore
 echo "node_modules“ >> .gitignore
 ```
 
-```
-node express.js
-```
-
 
 chrome: Hello world
 -------------------
+
+```
+node express.js
+```
 
 ```
 localhost:3000/
